@@ -29,3 +29,7 @@ diffusers>=0.30.0,<1.0.0
 
 # Evaluation (if needed)
 evaluate>=0.4.0,<1.0.0
+lamini==3.0.5
+packaging
+faiss-cpu
+jsonlines
